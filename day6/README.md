@@ -118,3 +118,4 @@ What happens to the state file after terraform destroy?
 
 ## 📚 TAREA 3. Configure Remote State Storage with S3 and DynamoDB
 
+fdsfds
